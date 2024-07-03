@@ -16,7 +16,7 @@ installShared()
 }
 
 # global install
-DEST_HOME=/usr/local
+DEST_HOME=build
 # for testing 
 # DEST_HOME=${HOME}/INSTALL/usr/local
 DEST_BIN=${DEST_HOME}/bin
