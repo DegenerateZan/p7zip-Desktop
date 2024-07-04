@@ -1,8 +1,8 @@
-# P7Zip Desktop
+# P7Zip Desktop Non Snap
 
-P7Zip Desktop is a fork of P7zip (7zip for *nix) to allow its use through a convenient graphical interface
 
-[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/p7zip-desktop)
+P7Zip-Desktop-Non-Snap is a fork of P7Zip Desktop (7zip for *nix) designed to allow its use without Snap, eliminating unnecessary bloat.
+
 
 LICENSE
 =======

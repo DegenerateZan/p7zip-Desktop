@@ -2,10 +2,10 @@
 
 if [ -z "$@" ]; then
         if [ "$USER" == "root" ]; then 
-                "/snap/p7zip-desktop/current/usr/local/lib/p7zip/7zFM" "/root" 
+                "/usr/local/lib/p7zip/7zFM" "/root" 
         else
-                "/snap/p7zip-desktop/current/usr/local/lib/p7zip/7zFM" "/home/$USER"
+                "/usr/local/lib/p7zip/7zFM" "/home/$USER"
         fi
 else
-        "/snap/p7zip-desktop/current/usr/local/lib/p7zip/7zFM" "$@"
+        "/usr/local/lib/p7zip/7zFM" "$@"
 fi
